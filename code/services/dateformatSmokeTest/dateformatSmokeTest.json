@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,dateformat",
+    "logging_enabled": "false",
+    "name": "dateformatSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "dateformatSmokeTest.js"
+}
